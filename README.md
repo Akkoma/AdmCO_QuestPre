@@ -33,13 +33,13 @@ Pour chaque question, indiquez vos sites choisis pour reference ( où le prompt 
       un package est un ensemble de module python dans un repertoire. Il possède un nom et un fichier d'initialisation.
      
   1. Créer un code python utilisant sous forme de module addition.py
-    ```python
+  ```python
 import addition
 a=5
 b=2
 print(addition.add(a,b))
 
-```
+  ```
   1. A quoi sert pip ? 
       pip est un gestionnaire de package. C'est-à-dire qu'il peut permettre leurs instalattions, leurs mises à jours, leurs désinstallation...
 
